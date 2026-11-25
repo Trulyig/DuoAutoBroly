@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Scripts down now...")
+game.Players.LocalPlayer:Kick("Scripts down for now...")
